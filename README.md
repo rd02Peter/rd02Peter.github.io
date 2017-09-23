@@ -1,5 +1,5 @@
-![GitHub Logo2](/logo2.png){:height="50%" width="50%"}
-![test image size](/logo2.png){:height="700px" width="400px"}
+![GitHub Logo2](/logo2.png){:height="10%" width="10%"}
+![test image size](/logo2.png){:height="70px" width="40px"}
 
 ### How To Think Like a Computer Scientist
 Chapters 
