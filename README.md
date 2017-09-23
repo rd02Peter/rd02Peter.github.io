@@ -29,15 +29,18 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-2017-09-23 says:
+2017-09-23 says;
+
 a.
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
 b.
 Headers
 
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+
 c.
 Emphasis
 
@@ -48,6 +51,7 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
 d.
 Lists
 
@@ -57,6 +61,7 @@ Unordered
 * Item 2
   * Item 2a
   * Item 2b
+  
 e.
 Ordered
 
