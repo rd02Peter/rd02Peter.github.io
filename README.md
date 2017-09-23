@@ -1,4 +1,4 @@
-![GitHub Logo2](/logo2.png){ width=50% }
+![GitHub Logo2](/logo2.png){ width=25% }
 
 ![GitHub Logo2](/logo2.png)
 
