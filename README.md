@@ -1,4 +1,4 @@
-![GitHub Logo2](/logo2.png) 
+![GitHub Logo2](/logo2.png=100x20) 
 
 ### How To Think Like a Computer Scientist
 Chapters 
