@@ -1,4 +1,4 @@
-![](./logo2.png){:height="10%" width="10%"} ### How To Think Like a Computer Scientist
+![](./logo2.png){:height="10%" width="10%"}; # How To Think Like a Computer Scientist
 Chapters 
 # 1.1. The Way of the Program
 The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas (specifically computations). Like engineers, they design things, assembling components into systems and evaluating tradeoffs among alternatives. Like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
