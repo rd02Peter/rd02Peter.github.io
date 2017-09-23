@@ -1,4 +1,3 @@
-{% img /logo2.png 100x200 %}
 ![GitHub Logo2](/logo2.png)
 
 ### How To Think Like a Computer Scientist
