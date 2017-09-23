@@ -82,7 +82,6 @@ Images
 
 ![GitHub Logo](/logo.png)
 
-
 ![GitHub Logo2](/logo2.png)
 
 Format: ![Alt Text](url)
