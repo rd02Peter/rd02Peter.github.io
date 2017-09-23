@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>用攝影機拍攝並顯示照片 - Raspberry Pi 好好玩</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="style.css" media="screen">
+<script type="text/javascript" src="/webiopi.js"></script>
+<script type="text/javascript">
+webiopi().ready(function() {
+
+  // 當按鈕被按下時拍攝
+  $('#btn1').click( function() {
+    $('#btn1').css('background','#f88888');  // 改變按鈕的背景
+    // 決定在檔案名稱裡用到的號碼
+    var fileno = Math.floor( (new Date()).getTime() / 1000 );
+    // 呼叫執行拍攝的巨集
+    webiopi().callMacro( 'camera', fileno, function(){
+      // 拍攝完成後顯示照片
+      var filename = 'camera_'+fileno+'.jpg';
+      $('#picture').attr({'src':filename});     // 讀取照片
+      $('#btn1').css('background','#f8f8f8');   // 改變按鈕的背景
+    });
+  });
+
+});
+</script>
+</head>
+<body>
+<div id="wrapper">
+
+<header>
+  <div class="header">
+    用攝影機拍攝並顯示照片
+  </div>
+</header>
+
+<nav>
+  <div class="nav-zero">
+    <ul>
+      <li id="btn1" class="ledoff"><br />拍照<br/ ><br/ ></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+</nav>
+
+<div id="contents">
+  <section>
+    <div class="wmain">
+      <img src="camera.jpg" width="280" height="210" id="picture">
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div id="footer">
+    Raspberry Pi 好好玩<br />
+  </div>
+</footer>
+
+</div>
+</body>
+</html>

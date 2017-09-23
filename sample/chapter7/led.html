@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>LED 亮燈控制 - Raspberry Pi 好好玩</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="style.css" media="screen">
+<script type="text/javascript" src="/webiopi.js"></script>
+<script type="text/javascript">
+webiopi().ready(function() {
+  var port = 24;  //GPIO24
+  var val = 0;  // 初始值
+
+  // 初始設定：設定GPIO24為OUT模式、輸出0
+  webiopi().setFunction(port,"OUT",function(){
+    webiopi().digitalWrite(port,val);
+  });
+
+  // 如果按鈕被按下會反轉GPIO的值
+  $('#btn1').click( function() {
+    val = (val) ? 0 : 1;
+    webiopi().digitalWrite(port,val);   // 輸出值val
+    // 改變按鈕的背景顏色
+    color = (val) ? "#f88888" : "#f8f8f8";
+    $(this).css('background',color);
+  });
+
+});
+</script>
+</head>
+<body>
+<div id="wrapper">
+
+<header>
+  <div class="header">
+    LED 亮燈控制
+  </div>
+</header>
+
+<nav>
+  <div class="nav-zero">
+    <ul>
+      <li id="btn1" class="ledoff">GPIO<br />24</li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+</nav>
+
+<div id="contents">
+  <section>
+    <div class="wmain">
+      點擊上面的按鈕來開/關 LED。<br />
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div id="footer">
+    Raspberry Pi 好好玩<br />
+  </div>
+</footer>
+
+</div>
+</body>
+</html>

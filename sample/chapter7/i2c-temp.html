@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>I2C 溫度感測器 - Raspberry Pi 好好玩</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="style.css" media="screen">
+<script type="text/javascript" src="/webiopi.js"></script>
+<script type="text/javascript">
+webiopi().ready(function() {
+  var I2C_ADDR = 0x39;
+  var raw1, raw2;
+
+  // 初始設定：設定解析度=12bit
+  function init_device(callback) {
+    // 以I2C傳送資料
+    var param = [I2C_ADDR, 0x03, 0x0c];
+    webiopi().callMacro('i2c_write', param, function(){
+      if(callback != undefined) callback();
+    });
+  }
+
+  // 取得溫度資料
+  function get_temp(callback) {
+    // 取得高位元、以I2C取得資料
+    var param = [I2C_ADDR, 0x00];
+    webiopi().callMacro('i2c_read', param, function(m,a,data){
+      raw1 = parseInt(data);
+      // 取得低位元、以I2C取得資料
+      var param = [I2C_ADDR, 0x02];
+      webiopi().callMacro('i2c_read', param, function(m,a,data){
+        raw2 = parseInt(data);
+        if(callback != undefined) callback();
+      });
+    });
+  }
+
+  // 計算接收的資料，顯示於畫面上
+  function show_temp() {
+    t = (raw1 & 0x7F) << 4 | (raw2 & 0xF0) >> 4;
+    if(raw1 & 0x80) t = - ((t ^ 0x07FF) + 1);
+    temp = 1.0 / Math.pow(2,4) * t;
+    // 在畫面上顯示值
+    $('#temp').html(temp);
+    $('#raw1').html(raw1.toString(16));
+    $('#raw2').html(raw2.toString(16));
+  }
+
+  // 主要函式
+  init_device(function(){  // 進行初始設定
+    get_temp(function(){   // 取得溫度資料
+      show_temp();         // 計算並顯示於畫面上
+    });
+  });
+
+  // 當refresh按鈕被按下後重新測量
+  $('#refresh').click( function() {
+    get_temp(function(){   // 取得溫度資料
+      show_temp();         // 計算並顯示於畫面上
+    });
+  });
+});
+</script>
+</head>
+<body>
+<div id="wrapper">
+
+<header>
+  <div class="header">
+    I2C 溫度感測器<br />
+  </div>
+</header>
+
+<div id="contents">
+  <section>
+    <div class="wmain">
+      <span style="font-size: large;">
+      現在的溫度是 <span id="temp">--</span>。<br />
+      </span>
+      <br />
+      Address 0x00 = 0x<span id="raw1">--</span><br />
+      Address 0x02 = 0x<span id="raw2">--</span><br />
+    </div>
+  </section>
+  <section>
+    <div class="wmain">
+      讀取 I2C 溫度感測器 STTS751 的值<br />
+      <br />
+      <form>
+      <input type="button" id="refresh" value="重新測量">
+      </form>
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div id="footer">
+    Raspberry Pi 好好玩<br />
+  </div>
+</footer>
+
+</div>
+</body>
+</html>
