@@ -15,7 +15,7 @@ readers online now | | Back to top
 © Copyright 2014 Brad Miller, David Ranum, Created using Runestone Interactive. Last updated on Sep 20, 2017.
 Created using Runestone 3.0.5.
 
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ### #Welcome says: Peter added 1 for Welcome to GitHub Pages # ###
 
