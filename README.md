@@ -1,4 +1,4 @@
-![](./logo2.png){:height="10%" width="10%"} 
+![](./logo2.png){:height="20%" width="20%"} 
 ![](./logo2.png){:height="10%" width="10%"} 
 ### How To Think Like a Computer Scientist
 Chapters 
