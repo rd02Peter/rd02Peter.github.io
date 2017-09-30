@@ -5,12 +5,10 @@
 
 # 1.0. The story of Musk
 
-Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,[29] the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;[30] and Errol Musk, a South African electromechanical engineer, pilot and sailor. He has a younger brother, Kimbal (born 1972), and a younger sister, Tosca (born 1974).[34] His paternal grandmother was British, and he also has Pennsylvania Dutch ancestry.[35][36] His maternal grandfather was American, from Minnesota.[37] After his parents divorced in 1980, Musk lived mostly with his father in the suburbs of Pretoria.[35]
+Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,[29] the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;[30] and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.[38] At age 10, he developed an interest in computing with the Commodore VIC-20.[39] He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
 
-During his childhood he was an avid reader.[38] At age 10, he developed an interest in computing with the Commodore VIC-20.[39] He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500.[40][41] A web version of the game is available online.[40][42]
-
-Musk was severely bullied throughout his childhood, and was once hospitalized when a group of boys threw him down a flight of stairs and then beat him until he lost consciousness.[38]
-
+## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
+[![Blastar for HTML5](http://nextwavemobileapps.com/wp-content/uploads/2015/06/Elon-Musk-1984-Blastar-Game1.png)](https://blastar-1984.appspot.com/)
 
 # 1.1. The Way of the Program
 
