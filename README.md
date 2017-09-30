@@ -1,5 +1,7 @@
 ![](./logo2.png){:height="20%" width="20%"} 
 ![](./logo2.png){:height="10%" width="10%"} 
+![](./Solid_color_You_Tube_logo.png){:height="20%" width="20%"} 
+![](./bmw_logo_PNG19714.png){:height="10%" width="10%"} 
 ### How To Think Like a Computer Scientist
 Chapters 
 # 1.1. The Way of the Program
