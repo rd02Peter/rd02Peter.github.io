@@ -1,7 +1,6 @@
 ![](./logo2.png){:height="10%" width="10%"} 
 
 # Welcome Apple & Adam ^_^
-
 [![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
 
 ### How To Think Like a Computer Scientist
