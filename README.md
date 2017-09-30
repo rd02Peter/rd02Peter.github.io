@@ -5,7 +5,7 @@
 
 # 1.0. The story of Musk
 
-Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,[29] the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;[30] and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.[38] At age 10, he developed an interest in computing with the Commodore VIC-20.[39] He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
+Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.At age 10, he developed an interest in computing with the Commodore VIC-20.He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
 
 ## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
 [![Blastar for HTML5](http://nextwavemobileapps.com/wp-content/uploads/2015/06/Elon-Musk-1984-Blastar-Game1.png)](https://blastar-1984.appspot.com/)
