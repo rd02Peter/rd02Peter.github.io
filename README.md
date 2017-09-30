@@ -1,4 +1,9 @@
 ![](./logo2.png){:height="10%" width="10%"} 
+
+# Welcome Apple & Adam ^_^
+
+[![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
+
 ### How To Think Like a Computer Scientist
 Chapters 
 # 1.1. The Way of the Program
@@ -16,13 +21,6 @@ readers online now | | Back to top
 Created using Runestone 3.0.5.
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-# Welcome Apple & Adam ^_^
-
-[![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
-
-
-
 
 You can use the [editor on GitHub](https://github.com/rd02Peter/rd02Peter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
