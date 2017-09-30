@@ -17,7 +17,7 @@ Created using Runestone 3.0.5.
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-# Welcome Apple & Adam 
+# Welcome Apple & Adam ^_^
 
 [![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
 
