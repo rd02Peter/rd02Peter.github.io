@@ -17,6 +17,10 @@ Created using Runestone 3.0.5.
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576)
+
+
 ### #Welcome says: Peter added 1 for Welcome to GitHub Pages # ###
 
 You can use the [editor on GitHub](https://github.com/rd02Peter/rd02Peter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
