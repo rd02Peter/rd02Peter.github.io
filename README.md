@@ -1,5 +1,5 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg){:height="15%" width="15%"} 
-![](http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo-3.jpg){:height="10%" width="10%"} 
+![](http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo-3.jpg){:height="25%" width="25%"} 
 ### How to make youself to be a good software engineer ? 
 ![](./logo2.png){:height="10%" width="10%"} 
 
