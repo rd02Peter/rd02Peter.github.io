@@ -18,7 +18,7 @@ Created using Runestone 3.0.5.
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
-[![Everything Is AWESOME](https://www.google.com.tw/search?q=Apple%E8%88%87%E8%8B%B1%E6%96%87%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85&client=ubuntu&hs=MBb&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiApb2byczWAhXLF5QKHdRLA34Q_AUICygC&biw=1183&bih=594#imgrc=o4z68ONK2DZjAM:)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576"Apple & Adam")
+[![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704018.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576"Apple & Adam")
 
 
 ### #Welcome says: Peter added 1 for Welcome to GitHub Pages # ###
