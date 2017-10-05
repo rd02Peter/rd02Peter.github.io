@@ -1,8 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg)
-![](http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo-3.jpg)
 ### How to make youself to be a good software engineer ? 
-![](./logo2.png){}
-![](){:height="10%" width="10%"} 
 
 # 1.0. The story of Musk
 
@@ -10,6 +6,8 @@ Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of 
 
 ## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
 [![Blastar for HTML5](http://nextwavemobileapps.com/wp-content/uploads/2015/06/Elon-Musk-1984-Blastar-Game1.png)](https://blastar-1984.appspot.com/)
+
+![](http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo-3.jpg){:height="10%" width="10%"}
 
 # 1.1. The Way of the Program
 
