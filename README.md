@@ -7,7 +7,7 @@ Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of 
 ## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
 [![Blastar for HTML5](http://nextwavemobileapps.com/wp-content/uploads/2015/06/Elon-Musk-1984-Blastar-Game1.png)](https://blastar-1984.appspot.com/)
 
-![](http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo-3.jpg){:height="10%" width="10%"}
+![](./Tesla-Motors-logo-3-2.jpg)
 
 # 1.1. The Way of the Program
 
@@ -55,6 +55,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+Example
+```
+![](./Tesla-Motors-logo-3-2.jpg){:height="10%" width="10%"}
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
