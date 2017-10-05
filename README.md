@@ -1,4 +1,4 @@
-### Software Engineer Class 2017.
+### Software Engineer Class - KWC 2017.
 
 ![](./Tesla-Motors-logo-3-2.jpg)
 
