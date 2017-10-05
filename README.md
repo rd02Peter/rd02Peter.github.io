@@ -1,4 +1,4 @@
-### Guys, now you are a software engineer. Date 2017/10/7
+### Software Engineer Class 2017.
 
 ![](./Tesla-Motors-logo-3-2.jpg)
 
