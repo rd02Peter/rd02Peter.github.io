@@ -1,7 +1,6 @@
-### How to make youself to be a good software engineer ? 
+### Guys, now you are a software engineer. Date 2017/10/7
 
-
-       ![](./Tesla-Motors-logo-3-2.jpg)
+![](./Tesla-Motors-logo-3-2.jpg)
 
 # 1.0. The story of Musk
 
