@@ -26,8 +26,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Welcome Apple & Adam ^_^
 [![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
 
-![](./Solid_color_You_Tube_logo.png){:height="20%" width="20%"} 
-
 ### Everything Is AWESOME !!
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
